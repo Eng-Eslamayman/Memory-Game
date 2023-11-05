@@ -14,7 +14,7 @@ This web-based Memory Game is built using HTML, CSS, and JavaScript. It's design
 
 ## Game Demo
 
-You can check out the live demo of the Memory Game [here]([link-to-your-demo](https://eng-eslamayman.github.io/Memory-Game/)).
+You can check out the live demo of the Memory Game [here](https://eng-eslamayman.github.io/Memory-Game/).
 
 ## Features
 
